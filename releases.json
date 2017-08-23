@@ -16,5 +16,14 @@
     "notes": [
       "[Added] Ability to add custom subject line from submited form"
     ]
+  },
+  {
+    "version": "1.0.3",
+    "downloadUrl": "https://github.com/owldesign/Nutshell---Craft-CMS-Plugin-API/archive/master.zip",
+    "date": "2017-08-22T22:17:10-07:00",
+    "critical": true,
+    "notes": [
+      "[Fixed] The whole plugin has been refactored in preparation for Craft 3"
+    ]
   }
 ]

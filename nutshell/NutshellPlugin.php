@@ -5,7 +5,7 @@
  * @copyright Copyright (c) 2017 Vadim Goncharov
  * @link      http://roundhouseagency.com/
  * @package   Nutshell
- * @since     1.0.2
+ * @since     1.0.3
  */
 
 namespace Craft;
@@ -60,7 +60,7 @@ class NutshellPlugin extends BasePlugin
      */
     public function getVersion()
     {
-        return '1.0.2';
+        return '1.0.3';
     }
 
     /**
