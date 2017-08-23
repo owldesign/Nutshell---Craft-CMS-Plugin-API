@@ -1,0 +1,20 @@
+[
+  {
+    "version": "1.0.1",
+    "downloadUrl": "https://bitbucket.org/owldesign/nutshell-craft-plugin-api/get/1ae1b4798157.zip",
+    "date": "2017-08-22T21:56:04-07:00",
+    "critical": true,
+    "notes": [
+      "[Added] Ability to add custom subject line from submited form"
+    ]
+  },
+  {
+    "version": "1.0.2",
+    "downloadUrl": "https://bitbucket.org/owldesign/nutshell-craft-plugin-api/get/1ae1b4798157.zip",
+    "date": "2017-08-22T22:04:20-07:00",
+    "critical": true,
+    "notes": [
+      "[Added] Ability to add custom subject line from submited form"
+    ]
+  }
+]
