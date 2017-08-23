@@ -52,7 +52,7 @@ class NutshellPlugin extends BasePlugin
      */
     public function getReleaseFeedUrl()
     {
-        return 'https://github.com/owldesign/Nutshell---Craft-CMS-Plugin-API/blob/master/releases.json';
+        return 'https://raw.githubusercontent.com/owldesign/Nutshell---Craft-CMS-Plugin-API/master/releases.json';
     }
 
     /**
